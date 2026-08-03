@@ -1,6 +1,6 @@
 function changeText() {
   document.getElementById("title").innerText = "Enjoy your coffee 🤎";
-  document.getElementById("text").innerText = "Text changed successfully ☕";
+  document.getElementById("text").innerText = "Text changed successfully ";
 }
 
 function changeLayout() {
